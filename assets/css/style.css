@@ -28,7 +28,9 @@ header {
 
 
 }
-
+i.fa.fa-bars {
+    font-size: 28px;
+}
 i {
     color: #fff;
     cursor: pointer;
@@ -88,7 +90,7 @@ header .menu {
         position: absolute;
     }
     .logo img {
-        width: 75%;
+        width: 80%;
     }
     header ul {
         position: fixed;
