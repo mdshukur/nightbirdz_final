@@ -87,7 +87,9 @@ header .menu {
     .search-box button {
         position: absolute;
     }
-
+    .logo img {
+        width: 75%;
+    }
     header ul {
         position: fixed;
         top: 100px;
